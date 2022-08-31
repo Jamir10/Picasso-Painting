@@ -247,3 +247,17 @@ display: inline-block;
     background-color: #8B4513;
     border-radius: 20px 50%;
 }
+
+.right {
+    position: absolute;
+    top: 15px;
+    right: 30px;
+}
+.left {
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+.fas {
+    font-size: 30px;
+}
